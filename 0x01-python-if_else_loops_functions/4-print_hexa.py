@@ -1,3 +1,5 @@
 #!/usr/bin/python3
-for num in range(99):
-    print("{:d} = {:s}".format(num, hex(num)))
+# Author - Godswill Kalu
+for letter in range(97, 123):
+    if chr(letter) != 'q' and chr(letter) != 'e':
+        print("{}".format(chr(letter)), end="")
