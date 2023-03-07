@@ -3,7 +3,6 @@
 
 ![image](https://user-images.githubusercontent.com/105078661/205486850-d87c5d9b-596d-466a-8570-b40e9dad5cd6.png)
 
-
 ## Learning Objectives
 
 - Why Python programming is awesome
