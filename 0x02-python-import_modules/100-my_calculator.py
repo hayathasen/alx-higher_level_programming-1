@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 100-my_calculator.py
-# Manuel Dinis Júnior  <manueldinisjunior.com>
+# Manuel Dinis Júnior <manueldinisjunior@gmail.com>
 
 if __name__ == "__main__":
     """Handle basic arithmetic operations."""
