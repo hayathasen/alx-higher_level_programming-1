@@ -1,9 +1,9 @@
 #!/usr/bin/python3
-# 5-no_c.py
 
-
-def no_c(my_string):
-    """Remove all characters c and C from a string."""
-    copy = [x for x in my_string if x != 'c' and x != 'C']
-    return ("".join(copy))
-
+def no_c(my_str):
+    """
+    Returns a copy of my_str without c or C
+    Args:
+        my_str - the string to filter
+    """
+    return "".join(filter(lambda x: x not in 'cC', my_str))
